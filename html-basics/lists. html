@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Lists Practice</title>
+</head>
+<body>
+
+    <h1>HTML Lists Example</h1>
+
+    <!-- Unordered List -->
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+        <li>PHP</li>
+    </ul>
+
+    <!-- Ordered List -->
+    <h2>Departments/h2>
+    <ol>
+        <li>Computer department<li>
+        <li>Physics department<li>
+        <li>Arts department<li>
+        <li>Commerce department<li>
+    </ol>
+    <!-- Nested List -->
+    <h2>Courses</h2>
+    <ul>
+        <li>Web Development
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+            </ul>
+        </li>
+        <li>Programming
+            <ul>
+                <li>Python</li>
+                <li>PHP</li>
+            </ul>
+        </li>
+    </ul>
+
+</body>
+</html>
